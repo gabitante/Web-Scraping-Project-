@@ -3,7 +3,7 @@
 #getwd()
 #if getwd() returns anything different, use below
 #code to switch to desktop
-setwd("/Users/georgeabitante/Desktop")
+setwd("path to save location for PubMedScraping_Github.R")
 #source will allow us to use functions saved in 
 #the selected R code
 source('PubMedScraping_GitHub.R')
